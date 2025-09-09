@@ -1,7 +1,7 @@
 {
   "metrics": {
     "file": "C:\\Users\\User\\Downloads\\Design of a Multipurpose Freeze Dryer.docx",
-    "extraction_time": "2025-09-10T02:02:39.667943",
+    "extraction_time": "2025-09-10T02:42:37.598050",
     "extracted_text": true,
     "extracted_images": false,
     "extracted_tables": false,
@@ -13,7 +13,7 @@
     },
     "method_used": "open source (Apache Tika)",
     "permission_needed": "No (open source, local processing)",
-    "notes": "Tika extracts text and metadata. For images/tables, use specialized tools."
+    "notes": "Text and metadata via Tika."
   },
   "summary": {
     "text_extracted": true,
@@ -87,11 +87,11 @@
       ],
       "extended-properties:DocSecurityString": "None",
       "X-TIKA:parse_time_millis": [
-        "288",
-        "25",
-        "10",
-        "20",
-        "20"
+        "267",
+        "23",
+        "54",
+        "21",
+        "22"
       ],
       "X-TIKA:embedded_depth": [
         "0",
@@ -182,9 +182,9 @@
         "INLINE"
       ],
       "File Name": [
-        "apache-tika-16365400738242479447.jpeg",
-        "apache-tika-15443878430494507973.jpeg",
-        "apache-tika-2684054680308347449.jpeg"
+        "apache-tika-7702028150878807611.jpeg",
+        "apache-tika-8240168512985547545.jpeg",
+        "apache-tika-3857739191178102145.jpeg"
       ],
       "tiff:BitsPerSample": [
         "8",
@@ -210,9 +210,9 @@
         "/image4.jpeg"
       ],
       "File Modified Date": [
-        "Wed Sep 10 02:02:39 +05:30 2025",
-        "Wed Sep 10 02:02:39 +05:30 2025",
-        "Wed Sep 10 02:02:39 +05:30 2025"
+        "Wed Sep 10 02:42:37 +05:30 2025",
+        "Wed Sep 10 02:42:37 +05:30 2025",
+        "Wed Sep 10 02:42:37 +05:30 2025"
       ],
       "Image Height": [
         "983 pixels",

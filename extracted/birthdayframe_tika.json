@@ -1,7 +1,7 @@
 {
   "metrics": {
     "file": "C:\\Users\\User\\Pictures\\birthdayframe.jpeg",
-    "extraction_time": "2025-09-10T02:04:19.182111",
+    "extraction_time": "2025-09-10T02:40:54.985772",
     "extracted_text": false,
     "extracted_images": false,
     "extracted_tables": false,
@@ -13,7 +13,7 @@
     },
     "method_used": "open source (Apache Tika)",
     "permission_needed": "No (open source, local processing)",
-    "notes": "Tika extracts text and metadata. For images/tables, use specialized tools."
+    "notes": "Text and metadata via Tika."
   },
   "summary": {
     "text_extracted": false,
@@ -43,12 +43,12 @@
       "File Size": "33232 bytes",
       "Component 3": "Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert",
       "Version": "1.1",
-      "File Name": "apache-tika-13525450030723408650.tmp",
+      "File Name": "apache-tika-12344714437174505057.tmp",
       "Content-Length": "33232",
       "tiff:BitsPerSample": "8",
       "Content-Type": "image/jpeg",
       "Resolution Units": "inch",
-      "File Modified Date": "Wed Sep 10 02:04:19 +05:30 2025",
+      "File Modified Date": "Wed Sep 10 02:40:54 +05:30 2025",
       "resourceName": "b'birthdayframe.jpeg'",
       "Image Height": "500 pixels",
       "Thumbnail Width Pixels": "0",
@@ -57,7 +57,7 @@
         "org.apache.tika.parser.DefaultParser",
         "org.apache.tika.parser.image.JpegParser"
       ],
-      "X-TIKA:parse_time_millis": "35",
+      "X-TIKA:parse_time_millis": "38",
       "X-TIKA:embedded_depth": "0",
       "tiff:ImageWidth": "417",
       "Y Resolution": "96 dots"
