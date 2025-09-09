@@ -1,0 +1,53 @@
+{
+  "metrics": {
+    "file": "C:\\Users\\User\\Desktop\\rishi.py.txt",
+    "extraction_time": "2025-09-10T03:00:11.967763",
+    "extracted_text": true,
+    "extracted_images": false,
+    "extracted_tables": false,
+    "percent_info_extracted": 100,
+    "percent_relevant_info": 100,
+    "output_format": {
+      "text": "str",
+      "metadata": "dict"
+    },
+    "method_used": "open source (Apache Tika)",
+    "permission_needed": "No (open source, local processing)",
+    "notes": "Text and metadata via Tika."
+  },
+  "summary": {
+    "text_extracted": true,
+    "output_format": {
+      "text": "str",
+      "metadata": "dict"
+    },
+    "metadata_extracted": true,
+    "percent_info_extracted": 100
+  },
+  "extracted_data": {
+    "text": "\n\n\n\n\n\n\n\n\n\n\n\n\r\n\r\nIn a dynamic field of technology and innovation, the journey of a designer is marked by continuous learning, collaboration and excellence In this field, the opportunity to become an MLH Fellow stands as an achievement and power lighting for aspiring engineers. As I reflect on my aspirations and purpose in software development, the MLH Fellowship emerges as a transitional platform that aligns with my vision of personal and professional growth.\r\n\r\nFirst of all, the MLH Fellowship provides an unparalleled opportunity to engage with like-minded individuals who share a passion for innovation and technology. Collaborating with peers from diverse backgrounds and skill sets creates an environment for creativity and intellectual exchange. As an MLH Fellow, I intend to engage in meaningful dialogue, exchange ideas, and build lifelong relationships with colleagues, mentors, and industry professionals. Such interactions not only enrich my learning experience, but also expand my horizons, allowing me to tackle challenges creatively and adaptively.\r\n\r\nAdditionally, the MLH Fellowship provides me with a wealth of resources, mentorship, and learning opportunities that help me develop my professional skills and advance my career. Through project-based learning, workshops and mentoring sessions, I have the opportunity to deepen my understanding of cutting edge technologies, refine my problem solving skills and develop best practices in software engineering Empowers me to overcome obstacles, overcome complex technical challenges, and unlock my full potential as a developer.\r\n  \r\n1.\r\n\r\n﻿﻿In a dynamic subject of technology and innovation, the journey of a dressmaker is marked with the useful resource of continuous studying, collaboration and excellence In this discipline, the opportunity to end up an MLH Fellow stands as an achievement and electricity lighting for aspiring engineers. As I reflect on my aspirations and cause in software program application development, the MLH Fellowship emerges as a transitional platform that aligns with my vision of private and professional increase.\r\n\r\nFirst of all, the MLH Fellowship affords an remarkable opportunity to interact with like-minded folks who share a passion for innovation and technology. Collaborating with peers from various backgrounds and skills units creates an environment for creativity and highbrow exchange. As an MLH Fellow, I intend to have interaction in significant communicate, trade ideas, and construct lifelong relationships with colleagues, mentors, and enterprise specialists. Such interactions not best increase my learning enjoy, however also make bigger my horizons, permitting me to tackle disturbing conditions creatively and adaptively.\r\n\r\nAdditionally, the MLH Fellowship presents me with a wealth of resources, mentorship, and gaining knowledge of opportunities that assist me growth my expert abilties and give a boost to my profession. Through mission-based analyzing, workshops and mentoring classes, I absolutely have the opportunity to deepen my understanding of reducing facet era, refine my trouble fixing skills and growth exquisite practices in software engineering Empowers me to overcome limitations, overcome complex technical traumatic conditions, and release my complete ability as a developer.\r\n\r\n\r\nin this era of technology and innovation \r\n\r\n\r\nIn an energizing correction of engineering and innovation, the trip of a seamstress is marked with the utile resourcefulness of successive studying, coalition and excellency In this disciplined, the chance to end up an MLH Fellow stands as an skill and power lighting for aspiring engineers. As I beam on my aspirations and cause in parcel programs coating development as well as the MLH Fellowship emerges as a transformation choline that aligns with my imaginativeness of secret and captain increase.\r\n\r\nFirst of all,' the MLH Fellowship affords an notable chance to interact with like minded folks who share a lovemaking for base and technology. Collaborating with peers from single backgrounds and skills units creates an environs for creativeness and highbrows exchange.\r\n\r\nAs an MLH Fellow, I delineate to have interaction in meaningful communicated, trade ideas, and constructed womb to tomb relationships with colleagues as well as mentors,' and endeavor specialists. Such interactions not best improver my learning enjoy, still also made larger my horizons, permitting me to guarantee disturbing conditions creatively and adaptively.\r\n\r\nAdditionally, the MLH Fellowship presents me with a riches of resources, censorship as well as and gaining noeses of opportunities that hang me growing my skillful abilities and give a boost to my profession. Through mission based analyzing,' workshops and mentoring classes, I perfectly had the chance to intensify my understanding of reducing facet era, perplex my deflect fixing skills and growing mincing practices in parcel engineering Empowers me to catch limitations, catch compound commercialized unhealthiness conditions, and free my downright power as a developer.\r\n\r\n\r\n2.\r\n\r\nAs an incoming MLH Fellow,' I bring an unequaled view and set of experiences that I consider will convey to the change and effectiveness of our community. Coming from a non traditional range like i am from a village area , I offer a fresh sentinel and interdisciplinary admittance to problem solving that complements the commercialized expertness of my peers. One face of my range that I consider will enrich our heretical is my have in [mention appropriate experience as well as ' e.g., interdisciplinary hunt projects as well as heretical outreach initiatives as well as or extramarital activities].\r\n\r\nThrough these endeavors,' I have developed alcoholic communicating skills as well as empathy, and a cooperative mindset,' which are base for efficacious teamwork and heretical building. I am aflame about leveraging engineering to destination real world challenges and make convinced ethnic impact, and I looked ahead to sharing my insights and ideas with associate Fellows.\r\n\r\nFurthermore,' my trip as a [mention any unequaled experiences or challenges, e.g., self taught developer, underrepresented nonage in tech] had taught me resilience, determination, and the grandness of exclusivity and change in the tech industry. I am committed to advocating for diversity, equity, and comprehension inside our heretical and beyond,' and I am eager to convey to initiatives that elevate approachability and adorn underrepresented groups in tech.\r\n\r\nIn addition,' I bring a rounded view to the fellowship, having lived and worked in [mention any transnational experiences, e.g. as well as ' studied abroad, volunteering in clear cut countries].\r\n\r\nMy pic to different cultures, languages as well as ' and perspectives had broadened my horizons and enriched my understanding of rounded issues. I consider that embracing change and fostering society interchange are key to fostering base and creativity, and I am dedicated to promoting intercultural understanding and coalition inside our heretical.\n",
+    "metadata": {
+      "X-TIKA:Parsed-By": [
+        "org.apache.tika.parser.DefaultParser",
+        "org.apache.tika.parser.csv.TextAndCSVParser"
+      ],
+      "X-TIKA:Parsed-By-Full-Set": [
+        "org.apache.tika.parser.DefaultParser",
+        "org.apache.tika.parser.csv.TextAndCSVParser"
+      ],
+      "X-TIKA:content_handler": "ToTextContentHandler",
+      "Content-Encoding": "UTF-8",
+      "X-TIKA:parse_time_millis": "262",
+      "X-TIKA:embedded_depth": "0",
+      "resourceName": "b'rishi.py.txt'",
+      "X-TIKA:detectedEncoding": "UTF-8",
+      "Content-Length": "7090",
+      "X-TIKA:encodingDetector": "UniversalEncodingDetector",
+      "Content-Type": "text/plain; charset=UTF-8"
+    },
+    "output_format": {
+      "text": "str",
+      "metadata": "dict"
+    }
+  }
+}
