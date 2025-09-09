@@ -1,0 +1,70 @@
+{
+  "metrics": {
+    "file": "C:\\Users\\User\\Pictures\\birthdayframe.jpeg",
+    "extraction_time": "2025-09-10T02:04:19.182111",
+    "extracted_text": false,
+    "extracted_images": false,
+    "extracted_tables": false,
+    "percent_info_extracted": 0,
+    "percent_relevant_info": 0,
+    "output_format": {
+      "text": "str",
+      "metadata": "dict"
+    },
+    "method_used": "open source (Apache Tika)",
+    "permission_needed": "No (open source, local processing)",
+    "notes": "Tika extracts text and metadata. For images/tables, use specialized tools."
+  },
+  "summary": {
+    "text_extracted": false,
+    "output_format": {
+      "text": "str",
+      "metadata": "dict"
+    },
+    "metadata_extracted": true,
+    "percent_info_extracted": 0
+  },
+  "extracted_data": {
+    "text": null,
+    "metadata": {
+      "Number of Tables": "2 Huffman tables",
+      "Compression Type": "Progressive, Huffman",
+      "Data Precision": "8 bits",
+      "X-TIKA:Parsed-By-Full-Set": [
+        "org.apache.tika.parser.DefaultParser",
+        "org.apache.tika.parser.image.JpegParser"
+      ],
+      "Number of Components": "3",
+      "tiff:ImageLength": "500",
+      "Component 2": "Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+      "Thumbnail Height Pixels": "0",
+      "Component 1": "Y component: Quantization table 0, Sampling factors 2 horiz/2 vert",
+      "X Resolution": "96 dots",
+      "File Size": "33232 bytes",
+      "Component 3": "Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+      "Version": "1.1",
+      "File Name": "apache-tika-13525450030723408650.tmp",
+      "Content-Length": "33232",
+      "tiff:BitsPerSample": "8",
+      "Content-Type": "image/jpeg",
+      "Resolution Units": "inch",
+      "File Modified Date": "Wed Sep 10 02:04:19 +05:30 2025",
+      "resourceName": "b'birthdayframe.jpeg'",
+      "Image Height": "500 pixels",
+      "Thumbnail Width Pixels": "0",
+      "Image Width": "417 pixels",
+      "X-TIKA:Parsed-By": [
+        "org.apache.tika.parser.DefaultParser",
+        "org.apache.tika.parser.image.JpegParser"
+      ],
+      "X-TIKA:parse_time_millis": "35",
+      "X-TIKA:embedded_depth": "0",
+      "tiff:ImageWidth": "417",
+      "Y Resolution": "96 dots"
+    },
+    "output_format": {
+      "text": "str",
+      "metadata": "dict"
+    }
+  }
+}
